@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 60
+  controlID: 130
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -442,9 +442,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 1efbffff
+      m_SelectedIDs: 365d0000
+      m_LastClickedID: 23862
+      m_ExpandedIDs: 1efbffffcc5c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -879,9 +879,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.50497, y: -10.46225, z: -17.81204}
+    m_Target: {x: 0.2597208, y: -13.8750725, z: -6.6672573}
     speed: 2
-    m_Value: {x: 11.50497, y: -10.46225, z: -17.81204}
+    m_Value: {x: 0.2597208, y: -13.8750725, z: -6.6672573}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -919,7 +919,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 0.9999888
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -927,17 +927,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.055424757, y: 0.93381506, z: -0.3120511, w: 0.16587493}
+    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: 0.055176623, y: 0.9342948, z: -0.31065425, w: 0.16596015}
+    m_Value: {x: 0.7071068, y: 0.00000009362676, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 59.568764
+    m_Target: 28.514944
     speed: 2
-    m_Value: 57.0036
+    m_Value: 28.514944
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1015,15 +1015,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Usuario\iaProyectoFinal
+  m_LastProjectPath: C:\Users\Usuario\Documents\GitHub\AI-Scene-Development\iaProyectoFinal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 066d0000
-    m_LastClickedID: 27910
+    m_SelectedIDs: 6e6b0000
+    m_LastClickedID: 27502
     m_ExpandedIDs: 000000006e6b0000706b0000726b0000746b0000766b0000786b00007a6b00007c6b00007e6b0000806b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
